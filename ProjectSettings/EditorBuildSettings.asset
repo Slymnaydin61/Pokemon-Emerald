@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PalletTown.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PalletTownRoute1.unity
+    guid: 4e17c1450b48a824baa67211708ba422
+  - enabled: 1
+    path: Assets/Scenes/PlayerHouse.unity
+    guid: b0fd958265f96f749bae99c8db3764bb
+  - enabled: 1
+    path: Assets/Scenes/Route1.unity
+    guid: afce4715a9f6e5746b11b5ecd6c36b9a
+  - enabled: 1
+    path: Assets/Scenes/Route1VirdianCity.unity
+    guid: dd7c1617763f8874bafc5afd6943d642
+  - enabled: 1
+    path: Assets/Scenes/Route2.unity
+    guid: 005f6ae4e955bd2449f90950dada0ed9
+  - enabled: 1
+    path: Assets/Scenes/VirdianCityRoute1.unity
+    guid: ef322a9ed61008144b1b34046fae59b5
+  - enabled: 1
+    path: Assets/Scenes/VirdianCityRoute2.unity
+    guid: 5face314a08452c448c59a8efb68d5b8
+  m_configObjects: {}
